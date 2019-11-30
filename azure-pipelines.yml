@@ -20,5 +20,5 @@ steps:
   inputs:
     script: |
       echo Write your commands here
-      
+      cscript "C:\Users\priyarao1516\Documents\GitHub\Azure_UFT\src\test\UFT_Framework\Execute.vbs"
       echo Hello world
