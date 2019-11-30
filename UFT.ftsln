@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "Automation", "Automation\Test.tsp", "AD4BEA35-30EC-4CE1-B168-BF7A36BE58F0"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\priyarao1516\Documents\GitHub\AutomationTools\UFT_Framework\Automation\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		AD4BEA35-30EC-4CE1-B168-BF7A36BE58F0.Debug|Any CPU.Build.0 = Debug|Any CPU
+		AD4BEA35-30EC-4CE1-B168-BF7A36BE58F0.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		AD4BEA35-30EC-4CE1-B168-BF7A36BE58F0.Release|Any CPU.Build.0 = Release|Any CPU
+		AD4BEA35-30EC-4CE1-B168-BF7A36BE58F0.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+	EndGlobalSection
+EndGlobal
