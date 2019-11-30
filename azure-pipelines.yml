@@ -26,5 +26,5 @@ steps:
       # Write your powershell commands here.
       
       Write-Output "Hello World"
-    CommunicationProtocol: 'Http'
+    CommunicationProtocol: 'Https'
     RunPowershellInParallel: false
